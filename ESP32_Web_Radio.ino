@@ -1,5 +1,5 @@
     /////////////////////////////////////////////////////////////////
-   //         ESP32 Internet Radio Project     v1.1               //
+   //         ESP32 Internet Radio Project     v1.11              //
   //       Get the latest version of the code here:              //
  //          http://educ8s.tv/esp32-internet-radio              //
 /////////////////////////////////////////////////////////////////
