@@ -11,6 +11,6 @@ The project description is available on web page of original author https://educ
 * Changed EEPROM save and read functions since original functions gave me errors during developmend.
 * Added a simple EEPROM verification routine to check the saved value.
 * Added station names to be displayed on the oled screen, on serial messages and on UDP reports.
-* Added UDP Server to receive staion selection command.
-* Added UDP broadcast function to send keep alive messages on LAN and repor radio station name.
+* Added UDP Server to receive station selection command.
+* Added UDP broadcast function to send keep alive messages on LAN and report radio station name.
 
